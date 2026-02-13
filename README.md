@@ -1,162 +1,116 @@
-<h1 align="center"> Hi 👋, I'm Jeeban krushna Sahu</h1>
+![Banner](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Jeeban Krushna Sahu</h1>
 
-<div align="center">
+<h1 align="center">(@Jeeban-2006)👋</h1>
+
+<p align="center">
+  <b>AI/ML Engineer | Data Science Enthusiastic | FullStack Developer</b><br>
+  <i>Crafting autonomous systems that learn, adapt, and solve real-world problems</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI/ML+Engineer+%E2%9A%99%EF%B8%8F+Data+Science+Enthusiastic;FullStack+Developer;Machine+Learning+%7C+Deep+Learning;Creating+Intelligence+that+Works"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm **Jeeban Krushna Sahu**, an **AI/ML Engineer** from **India** passionate about building **intelligent AI agents** and autonomous systems. My expertise spans **Machine Learning**, **Deep Learning**, and **FullStack development**. I focus on creating AI solutions that don't just process data, but actively reason, learn, and take actions to solve complex problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast;Passionate+Learner;Open+Source+Enthusiast)](https://git.io/typing-svg)
+  
+</p>
 
-</div>
+### AI/ML Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  
+</p>
 
+### AI Agent Tools
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-FF4D6D?style=for-the-badge&logo=heart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-## 👨‍💻 About Me
+### Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-
-<img align="right" alt="Coding" width="350" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif">
-
-- 🔭 I'm currently working on **Full Stack Development**
-
-- 🌱 I'm currently learning **Data Science**
-
-- 👯 I'm looking to collaborate on **Open Source Projects**
-
-- 💬 Ask me about **Web Development, Designing**
-
-- 📫 Reach me at **jeebankrushnasahu1@gmail.com**
-
-- ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : mood = '!boosted'`
-
-
-## 🌐 Connect with me:
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeban-krushna-sahu-004228301)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jeeban-portfolio.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeebankrushnasahu1@gmail.com)
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Jeeban1234/)
-[![Hackerrank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jeebankrushnasa2)
-
-</div>
-
-## 🛠️ Languages and Tools:
-
-### Programming Languages:
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### Frameworks & Libraries:
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
-
-### Tools & Technologies:
-<div align="center">
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)
-
-
-</div>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeeban-2006&show_icons=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jeeban's Github Stats"/> <!--theme=tokyonight&hide_border=true&bg_color=0D1117"-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeban-2006&layout=compact&langs_count=8&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jeeban's Github Stats"/> <!--theme=tokyonight&hide_border=true&bg_color=0D1117"-->
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeeban-2006&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jeeban-2006&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jeeban-2006&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!--
-## 📈 Activity Graph:
-
-<div align="center">
-
-[![Asmit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsmitSwain27&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+### Development & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake:
+## 🔍 Let's Connect
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsmitSwain27/AsmitSwain27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsmitSwain27/AsmitSwain27/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AsmitSwain27/AsmitSwain27/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<p align="center">
+  <a href="mailto:jeebankrushnasahu1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="linkedin.com/in/jeeban-krushna-sahu-004228301">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Jeeban-2006">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/jeeban_27?igsh=MWNyYnliNGRhb295aw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://jeebankrushnasahu.vercel.app/">
+  <img src="https://img.shields.io/badge/Jeeban's_Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+  
+</p>
 
 ---
--->
 
-## 🎮 Featured Projects:
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jeeban-2006&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Jeeban-2006&theme=tokyonight" />
+</p>
 
-[![Jeeban Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Jeeban-2006&repo=Jeeban-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Jeeban-2006/Jeeban-Portfolio)
-[![HireByte](https://github-readme-stats.vercel.app/api/pin/?username=Jeeban-2006&repo=HireByte&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Jeeban-2006/HireByte)
-[![Rewire](https://github-readme-stats.vercel.app/api/pin/?username=Jeeban-2006&repo=Rewire&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Jeeban-2006/Rewire)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeeban-2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
+---
 
-</div>
+<p align="center">
+<i>"Crafting AI solutions that learn continuously and act with precision."</i>
+</p>
 
-## 💭 Random Dev Quote:
-
-<!--
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
--->
-<div align="center">
-
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things+together!;Happy+Coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-### Show some ❤️ by starring some of my repositories!
-### ❤️ From Jeeban
-
-</div>
+<p align="center">
+  ✨ Thanks for visiting! Let's collaborate on building intelligent systems together. ✨
+</p>
