@@ -97,6 +97,10 @@ I'm **Jeeban Krushna Sahu**, an **AI/ML Engineer** from **India** passionate abo
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeeban-2006&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jeeban-2006&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://streak-stats.demolab.com?user=Jeeban-2006&theme=tokyonight" />
 </p>
@@ -106,6 +110,8 @@ I'm **Jeeban Krushna Sahu**, an **AI/ML Engineer** from **India** passionate abo
 </p>
 
 ---
+
+
 
 <p align="center">
 <i>"Crafting AI solutions that learn continuously and act with precision."</i>
